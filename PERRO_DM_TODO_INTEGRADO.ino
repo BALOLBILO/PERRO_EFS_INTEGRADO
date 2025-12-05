@@ -1,3 +1,5 @@
+//Grupo 1 Octaviano Sznajdleder, Sophie Tobvein, Luciano Aizen y Pedro Musan
+
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
